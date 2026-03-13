@@ -12,15 +12,15 @@
 
 | Domain | What I Do |
 |--------|-----------|
-| 🤖 Generative AI | Agentic RAG pipelines, LLM fine-tuning, prompt engineering |
-| 🛡️ AI Safety & Detection | AI-generated content detection, robustness evaluation |
-| 🦾 Robotics & CV | ROS2, YOLOv8, real-time perception on quadruped robots |
-| ☁️ ML Deployment | FastAPI, Docker, Kubernetes, AWS production pipelines |
-| 🧠 Reinforcement Learning | DQN, autonomous navigation, custom GridWorld environments |
+|  Generative AI | Agentic RAG pipelines, LLM fine-tuning, prompt engineering |
+|  AI Safety & Detection | AI-generated content detection, robustness evaluation |
+|  Robotics & CV | ROS2, YOLOv8, real-time perception on quadruped robots |
+|  ML Deployment | FastAPI, Docker, Kubernetes, AWS production pipelines |
+|  Reinforcement Learning | DQN, autonomous navigation, custom GridWorld environments |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Frameworks**
 
@@ -45,63 +45,63 @@
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🛡️ [OriginGuard AI Detector](https://github.com/Aherpratik/OriginGuard-AI-Detector)
+###  [OriginGuard AI Detector](https://github.com/Aherpratik/OriginGuard-AI-Detector)
 > Detects AI-generated vs human-created text and images. Uses RoBERTa for text detection and deep learning for image analysis — 84% classification accuracy across 3 benchmark datasets. Includes robustness checks for paraphrasing, OCR'd text, and recompressed images.
 
 `Python` `RoBERTa` `Transformers` `Streamlit` `Computer Vision`
 
 ---
 
-### 🔍 [ContextLens LLM](https://github.com/Aherpratik/ContextLens-llm)
+###  [ContextLens LLM](https://github.com/Aherpratik/ContextLens-llm)
 > LLM-powered chatbot that adapts responses based on user-selected audience (Beginner/Expert) and depth — same model, different contextual lenses. Built with FastAPI backend and Groq API (Llama 3.1).
 
 `Python` `FastAPI` `LLM` `Groq API` `Prompt Engineering`
 
 ---
 
-### ✍️ [Handwritten Digits Classification](https://github.com/Aherpratik/Handwritten-Digits-Classification)
+###  [Handwritten Digits Classification](https://github.com/Aherpratik/Handwritten-Digits-Classification)
 > MNIST classification using a multilayer perceptron built from scratch with NumPy — demonstrating core deep learning mechanics without frameworks.
 
 `Python` `NumPy` `Deep Learning` `MNIST`
 
 ---
 
-### 🌐 [Personal Portfolio](https://github.com/Aherpratik/pratik-portfolio)
+###  [Personal Portfolio](https://github.com/Aherpratik/pratik-portfolio)
 > My developer portfolio built with React, Vite, and Tailwind CSS — showcasing projects, experience, and skills.
 
 `React` `Vite` `Tailwind CSS` `JavaScript`
 
 ---
 
-## 💼 Experience
+##  Experience
 
-🏢 **GenAI Intern @ Filmy AI LLC** *(Aug 2025 – Present)*
+ **GenAI Intern @ Filmy AI LLC** *(Aug 2025 – Present)*
 Built agentic RAG pipelines with LangChain + ChromaDB, fine-tuned Gemma with LoRA (F1 +12%), deployed scalable ML services on AWS.
 
-🔬 **Research Intern @ University at Buffalo** *(Mar 2025 – Jul 2025)*
+ **Research Intern @ University at Buffalo** *(Mar 2025 – Jul 2025)*
 Autonomous ball-tracking on Unitree Go2 robot — sub-50ms inference, 97% tracking reliability via ROS2 + YOLOv8.
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥈 **2nd Place** — AI for Good Challenge, University at Buffalo (2025)
-- 👥 Led **Student Council & AI Association** — 10,000+ participants, 35% YoY engagement growth
-- 🎓 **General Secretary, Training & Placement** — 87% placement rate across 70+ companies
+-  **2nd Place** — AI for Good Challenge, University at Buffalo (2025)
+-  Led **Student Council & AI Association** — 10,000+ participants, 35% YoY engagement growth
+-  **General Secretary, Training & Placement** — 87% placement rate across 70+ companies
 
 ---
 
-## 📄 Publications
+##  Publications
 
-📝 **Real-Time Object Detection Using Convolutional Neural Networks**
+ **Real-Time Object Detection Using Convolutional Neural Networks**
 *International Journal of Research and Analytical Reviews (IJRAR), Vol. 10, Issue 4, 2023*
 > CNN-based framework for real-time object detection evaluated with precision, recall, and IoU metrics.
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 ![Oracle](https://img.shields.io/badge/Oracle-AIML-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
