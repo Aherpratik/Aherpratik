@@ -3,17 +3,17 @@
 AI Engineer focused on building production-ready GenAI systems, LLM applications, and real-time robotics perception.
 
 ## What I work on
-- 🤖 **Generative AI** — Agentic RAG pipelines, LLM fine-tuning, OpenAI/Gemma integrations
-- 🦾 **Robotics** — ROS2, YOLOv8, real-time perception on quadruped robots
-- ☁️ **ML Deployment** — FastAPI, Docker, Kubernetes, AWS (EC2/S3)
-- 🧠 **Reinforcement Learning** — DQN, autonomous navigation, custom environments
+-  **Generative AI** — Agentic RAG pipelines, LLM fine-tuning, OpenAI/Gemma integrations
+-  **Robotics** — ROS2, YOLOv8, real-time perception on quadruped robots
+-  **ML Deployment** — FastAPI, Docker, Kubernetes, AWS (EC2/S3)
+-  **Reinforcement Learning** — DQN, autonomous navigation, custom environments
 
 ## About Me
-- 🎓 MS in Artificial Intelligence — University at Buffalo (Dec 2025)
-- 💼 GenAI Intern @ Filmy AI | Research Intern @ University at Buffalo
-- 🏆 2nd Place — AI for Good Challenge, University at Buffalo (2025)
-- 🌐 Portfolio: [aherpratik.github.io/pratik-portfolio](https://aherpratik.github.io/pratik-portfolio)
-- 📫 Reach me at: paher3636@gmail.com
+- MS in Artificial Intelligence — University at Buffalo (Dec 2025)
+- GenAI Intern @ Filmy AI | Research Intern @ University at Buffalo
+- 2nd Place — AI for Good Challenge, University at Buffalo (2025)
+- Portfolio: [aherpratik.github.io/pratik-portfolio](https://aherpratik.github.io/pratik-portfolio)
+- Reach me at: paher3636@gmail.com
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
