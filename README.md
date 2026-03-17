@@ -3,7 +3,7 @@
 > *Building intelligent systems that bridge research and the real world — from LLM pipelines to robots that see and move.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge)](https://aherpratik.github.io/pratik-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pratikaher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratikaher9/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:paher3636@gmail.com)
 
 ---
