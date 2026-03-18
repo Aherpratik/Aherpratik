@@ -49,6 +49,7 @@
 
 ### [Adaptive Traffic Signal Control Using RL](https://github.com/Aherpratik/Adaptive-traffic-control)
 > This project implements an Adaptive Traffic Signal Control System using Reinforcement Learning (Q-Learning) with the SUMO (Simulation of Urban Mobility) traffic simulator. The goal is to dynamically control traffic lights at an intersection to reduce congestion and improve traffic flow based on real-time traffic conditions.
+
 `Python` `SUMO (simulation of urban mobility)` `TraCI (Traffic Control Interface)` `Reinforcement Learning (Q-Learning)`
 
 
