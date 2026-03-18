@@ -1,4 +1,4 @@
-# Hey, I'm Pratik Aher 🚀
+# Hey, I'm Pratik Aher 
 
 > *Building intelligent systems that bridge research and the real world — from LLM pipelines to robots that see and move.*
 
