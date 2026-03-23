@@ -1,9 +1,7 @@
 # Hey, I'm Pratik Aher 
 
-Building intelligent systems that bridge research and real-world applications — from LLM pipelines to robotics perception.
-
+Building intelligent systems that bridge research and real-world applications from LLM pipelines to robotics perception.
 AI/ML Engineer with experience in generative AI, reinforcement learning, computer vision, and scalable backend systems. I work on end-to-end solutions including RAG pipelines, LLM fine-tuning, real-time perception, and production AI deployments.
-
 Currently exploring agentic workflows, multimodal AI, and intelligent systems for real-world applications.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge)](https://aherpratik.github.io/pratik-portfolio)
