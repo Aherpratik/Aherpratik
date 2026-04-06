@@ -106,7 +106,7 @@ Currently exploring agentic workflows, multimodal AI, and intelligent systems fo
 
 ---
 
-### [Intelligent Document Processing]
+### [Intelligent Document Processing](https://github.com/Aherpratik/intelligent-document-processing-GenAI)
 > Developed an end-to-end AI pipeline to extract structured data from unstructured documents at scale.
 
 * Combined OCR (Tesseract, EasyOCR) with NLP (BERT, GPT)
