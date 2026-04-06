@@ -70,7 +70,12 @@ Currently exploring agentic workflows, multimodal AI, and intelligent systems fo
 ## 🚀 Featured Projects
 
 ### [Adaptive Traffic Signal Control Using RL](https://github.com/Aherpratik/Adaptive-traffic-control)
-> Adaptive traffic light control using Q-learning and SUMO to reduce congestion.
+> Designed a reinforcement learning-based traffic control system to dynamically optimize signal timings and reduce congestion in real-time urban environments.
+
+* Built Q-Learning agent using SUMO + TraCI for real-time traffic simulation
+* Designed reward function to minimize vehicle wait time and queue length
+* Achieved improved traffic flow compared to static signal timing systems
+* Simulated multiple traffic scenarios to evaluate policy performance
 
 `Python` `SUMO` `TraCI` `Reinforcement Learning`
 
