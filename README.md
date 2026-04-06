@@ -82,28 +82,51 @@ Currently exploring agentic workflows, multimodal AI, and intelligent systems fo
 ---
 
 ### [OriginGuard AI Detector](https://github.com/Aherpratik/OriginGuard-AI-Detector)
-> Detects AI vs human content (text + images) with 84% accuracy.
+> Developed a multimodal AI detection system to identify AI-generated vs human-created content across text and images.
 
-`Python` `RoBERTa` `Transformers` `Streamlit`
+* Implemented RoBERTa-based classifier for text detection
+* Built image classification pipeline for synthetic vs real images
+* Achieved 84% accuracy across benchmark datasets
+* Added robustness checks for paraphrasing, OCR text, and recompressed images
+* Deployed interactive interface using Streamlit
+
+`Python` `RoBERTa` `Transformers` `Streamlit` `Computer Vision`
 
 ---
 
 ### [ContextLens LLM](https://github.com/Aherpratik/ContextLens-llm)
-> Adaptive LLM chatbot with audience-aware responses using FastAPI + Groq.
+> Built an adaptive LLM system that dynamically modifies responses based on user expertise level (Beginner vs Expert).
 
-`Python` `FastAPI` `LLM`
+* Designed context-aware prompting system for audience-specific responses
+* Integrated Groq API (Llama 3.1) for low-latency inference
+* Built scalable backend using FastAPI
+* Enabled flexible response depth without changing underlying model
+
+`Python` `FastAPI` `LLM` `Prompt Engineering`
+
+---
+
+### [Intelligent Document Processing]
+> Developed an end-to-end AI pipeline to extract structured data from unstructured documents at scale.
+
+* Combined OCR (Tesseract, EasyOCR) with NLP (BERT, GPT)
+* Processed 500+ documents weekly, improving efficiency by 40%
+* Built FastAPI service for real-time document processing
+* Deployed scalable pipeline using Docker + AWS
+
+`Python` `OCR` `NLP` `FastAPI` `AWS` `Docker`
 
 ---
 
 ### [Handwritten Digits Classification](https://github.com/Aherpratik/Handwritten-Digits-Classification)
-> MNIST classifier built from scratch using NumPy.
+> Implemented a neural network from scratch to understand core deep learning mechanics without high-level frameworks.
 
-`Python` `NumPy`
+* Built MLP using NumPy only (no PyTorch/TensorFlow)
+* Implemented forward/backpropagation manually
+* Achieved strong classification performance on MNIST dataset
 
----
+`Python` `NumPy` `Deep Learning`
 
-### [Portfolio](https://github.com/Aherpratik/pratik-portfolio)
-> Personal portfolio built using React + Tailwind.
 
 ---
 
