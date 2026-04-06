@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Pratik Aher</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&lines=AI%2FML+Engineer;GenAI+%7C+Robotics+%7C+AI+Systems;Building+real-world+AI+systems&center=true&width=600&height=45&color=4F8CC9&size=28" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&lines=AI%2FML+Engineer;GenAI+%7C+Robotics+%7C+AI+Systems;Building+real-world+AI+systems&center=true&width=600&height=45&color=4F8CC9&size=32" />
 </p>
 
 <p align="center">
