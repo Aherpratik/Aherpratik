@@ -1,12 +1,32 @@
-# Hey, I'm Pratik Aher 
+<h1 align="center">Hey, I'm Pratik Aher</h1>
 
-Building intelligent systems that bridge research and real-world applications from LLM pipelines to robotics perception.
-AI/ML Engineer with experience in generative AI, reinforcement learning, computer vision, and scalable backend systems. I work on end-to-end solutions including RAG pipelines, LLM fine-tuning, real-time perception, and production AI deployments.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer;GenAI+%7C+Robotics+%7C+AI+Systems;Building+real-world+AI+systems&center=true&width=500&height=35&color=888888&size=18" />
+</p>
+
+<p align="center">
+Building intelligent systems that bridge research and real-world applications — from LLM pipelines to robotics perception.
+</p>
+
+<p align="center">
+AI/ML Engineer with experience in generative AI, reinforcement learning, computer vision, and scalable backend systems.
+</p>
+
+<p align="center">
 Currently exploring agentic workflows, multimodal AI, and intelligent systems for real-world applications.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge)](https://aherpratik.github.io/pratik-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratikaher9/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:paher3636@gmail.com)
+<p align="center">
+  <a href="https://aherpratik.github.io/pratik-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/pratikaher9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:paher3636@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
@@ -14,15 +34,15 @@ Currently exploring agentic workflows, multimodal AI, and intelligent systems fo
 
 | Domain | What I Do |
 |--------|-----------|
-|  Generative AI | Agentic RAG pipelines, LLM fine-tuning, prompt engineering |
-|  AI Safety & Detection | AI-generated content detection, robustness evaluation |
-|  Robotics & CV | ROS2, YOLOv8, real-time perception on quadruped robots |
-|  ML Deployment | FastAPI, Docker, Kubernetes, AWS production pipelines |
-|  Reinforcement Learning | DQN, autonomous navigation, custom GridWorld environments |
+| Generative AI | Agentic RAG pipelines, LLM fine-tuning, prompt engineering |
+| AI Safety & Detection | AI-generated content detection, robustness evaluation |
+| Robotics & CV | ROS2, YOLOv8, real-time perception on quadruped robots |
+| ML Deployment | FastAPI, Docker, Kubernetes, AWS production pipelines |
+| Reinforcement Learning | DQN, autonomous navigation, custom GridWorld environments |
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
@@ -47,90 +67,64 @@ Currently exploring agentic workflows, multimodal AI, and intelligent systems fo
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 ### [Adaptive Traffic Signal Control Using RL](https://github.com/Aherpratik/Adaptive-traffic-control)
-> This project implements an Adaptive Traffic Signal Control System using Reinforcement Learning (Q-Learning) with the SUMO (Simulation of Urban Mobility) traffic simulator. The goal is to dynamically control traffic lights at an intersection to reduce congestion and improve traffic flow based on real-time traffic conditions.
+> Adaptive traffic light control using Q-learning and SUMO to reduce congestion.
 
-`Python` `SUMO (simulation of urban mobility)` `TraCI (Traffic Control Interface)` `Reinforcement Learning (Q-Learning)`
-
-
-###  [OriginGuard AI Detector](https://github.com/Aherpratik/OriginGuard-AI-Detector)
-> Detects AI-generated vs human-created text and images. Uses RoBERTa for text detection and deep learning for image analysis — 84% classification accuracy across 3 benchmark datasets. Includes robustness checks for paraphrasing, OCR'd text, and recompressed images.
-
-`Python` `RoBERTa` `Transformers` `Streamlit` `Computer Vision`
+`Python` `SUMO` `TraCI` `Reinforcement Learning`
 
 ---
 
-###  [ContextLens LLM](https://github.com/Aherpratik/ContextLens-llm)
-> LLM-powered chatbot that adapts responses based on user-selected audience (Beginner/Expert) and depth — same model, different contextual lenses. Built with FastAPI backend and Groq API (Llama 3.1).
+### [OriginGuard AI Detector](https://github.com/Aherpratik/OriginGuard-AI-Detector)
+> Detects AI vs human content (text + images) with 84% accuracy.
 
-`Python` `FastAPI` `LLM` `Groq API` `Prompt Engineering`
-
----
-
-###  [Handwritten Digits Classification](https://github.com/Aherpratik/Handwritten-Digits-Classification)
-> MNIST classification using a multilayer perceptron built from scratch with NumPy — demonstrating core deep learning mechanics without frameworks.
-
-`Python` `NumPy` `Deep Learning` `MNIST`
+`Python` `RoBERTa` `Transformers` `Streamlit`
 
 ---
 
-###  [Personal Portfolio](https://github.com/Aherpratik/pratik-portfolio)
-> My developer portfolio built with React, Vite, and Tailwind CSS — showcasing projects, experience, and skills.
+### [ContextLens LLM](https://github.com/Aherpratik/ContextLens-llm)
+> Adaptive LLM chatbot with audience-aware responses using FastAPI + Groq.
 
-`React` `Vite` `Tailwind CSS` `JavaScript`
-
----
-
-##  Experience
-
- **GenAI Intern @ Filmy AI LLC** *(Aug 2025 – Present)*
-Built agentic RAG pipelines with LangChain + ChromaDB, fine-tuned Gemma with LoRA (F1 +12%), deployed scalable ML services on AWS.
-
- **Research Intern @ University at Buffalo** *(Mar 2025 – Jul 2025)*
-Autonomous ball-tracking on Unitree Go2 robot — sub-50ms inference, 97% tracking reliability via ROS2 + YOLOv8.
+`Python` `FastAPI` `LLM`
 
 ---
 
-##  Achievements
+### [Handwritten Digits Classification](https://github.com/Aherpratik/Handwritten-Digits-Classification)
+> MNIST classifier built from scratch using NumPy.
 
--  **2nd Place** — AI for Good Challenge, University at Buffalo (2025)
--  Led **Student Council & AI Association** — 10,000+ participants, 35% YoY engagement growth
--  **General Secretary, Training & Placement** — 87% placement rate across 70+ companies
-
----
-
-##  Publications
-
- **Real-Time Object Detection Using Convolutional Neural Networks**
-*International Journal of Research and Analytical Reviews (IJRAR), Vol. 10, Issue 4, 2023*
-> CNN-based framework for real-time object detection evaluated with precision, recall, and IoU metrics.
+`Python` `NumPy`
 
 ---
 
-##  Certifications
-
-![Oracle](https://img.shields.io/badge/Oracle-AIML-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Machine_Learning-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Data_Analytics-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Java_Foundation-F80000?style=flat-square&logo=oracle&logoColor=white)
+### [Portfolio](https://github.com/Aherpratik/pratik-portfolio)
+> Personal portfolio built using React + Tailwind.
 
 ---
 
-> *"Building systems that feel alive."*
-<!--
-**Aherpratik/Aherpratik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Experience
 
-Here are some ideas to get you started:
+**GenAI Intern — Filmy AI**  
+Built RAG pipelines, fine-tuned LLMs, deployed scalable AI systems on AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research Intern — University at Buffalo**  
+Real-time robotic perception using YOLOv8 + ROS2 with sub-50ms latency.
+
+---
+
+## 🏆 Achievements
+
+- 2nd Place — AI for Good Challenge (UB)
+- Led AI Association — 10,000+ participants
+- 87% placement rate leadership role
+
+---
+
+## 📄 Publications
+
+**Real-Time Object Detection Using CNNs**  
+IJRAR (2023)
+
+---
+
+> *Building systems that feel alive.*
