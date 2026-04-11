@@ -42,7 +42,7 @@ Currently exploring agentic workflows, multimodal AI, and intelligent systems fo
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Frameworks**
 
@@ -67,7 +67,7 @@ Currently exploring agentic workflows, multimodal AI, and intelligent systems fo
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [Adaptive Traffic Signal Control Using RL](https://github.com/Aherpratik/Adaptive-traffic-control)
 > Designed a reinforcement learning-based traffic control system to dynamically optimize signal timings and reduce congestion in real-time urban environments.
@@ -130,7 +130,7 @@ Currently exploring agentic workflows, multimodal AI, and intelligent systems fo
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **GenAI Intern — Filmy AI**  
 Built RAG pipelines, fine-tuned LLMs, deployed scalable AI systems on AWS.
